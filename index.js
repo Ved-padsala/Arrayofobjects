@@ -238,3 +238,6 @@ const bikes = [
 
 console.log("Bikes:", bikes);
 console.log("movies:",movies);
+
+
+console.log ("end arrays");
